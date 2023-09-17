@@ -1,0 +1,16 @@
+<div style=text-align:center;><img style="width: 20%;"src="logo1.jpg"></div>
+<h1 style="text-align:center;color: red;padding-top: 5px;font-size:50px;margin-bottom: 20px;margin-top: 5px;">VZoo</h1>
+<h2 style="text-align:center;color: blue;font-size:30px;margin-bottom: 30px;">The Virtual Zoo</h2>
+<p style="font-size:20px;margin-bottom: 30px;text-align:center;color: rgb(214, 122, 127);">The VIZ project is a virtual zoo that came to you.It is a fun way of learning and understading different things.<br>
+As you can't visit various places and see the variety of animals, we made them come to you.</p>
+<hr>
+<h1 style="text-align:center;color: brown;padding-top: 10px;font-size:25px;margin-bottom: 20px;">The Animals</h1>
+<img style="padding-top: 30px;padding-bottom: 30px;width: 33%;"src="tigerai.jpeg">
+<img style="padding-top: 30px;padding-bottom: 30px;width: 33%;"src="dogai.jpg">
+<img style="padding-top: 30px;padding-bottom: 30px;width: 33%;"src="eagleai.jpeg">
+<hr>
+<h1 style="text-align:center;color: green;padding-top: 10px;font-size:25px;margin-bottom: 20px;">The Plants</h1>
+<img style="padding-top: 30px;padding-bottom: 30px;width: 33%;"src="treeai.jpg">
+<img style="padding-top: 30px;padding-bottom: 30px;width: 33%;"src="tree3ai.jpg">
+<img style="padding-top: 30px;padding-bottom: 30px;width: 33%;"src="tree2ai.jpg">
+<hr>
